@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/AmanUllahSujon-Developer/AmanUllahSujon-Developer/blob/main/Wave.gif" height="55px" width="55px">, I'm Aman Ullah Sujon</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Traveler | Learner
 
 ?></h3>
 
 - 🔭 I’m currently working on **Java Web Development**
 
-- 🌱 I’m currently learning **Java** **Spring Boot**  **MicroService**
+- 🌱 I’m currently learning **Java** **Spring Boot**  **MicroService** ** Angular**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -19,7 +19,7 @@ Programmer | Content Creator | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Aman Ullah Sujon | YouTube" width="22px" src="https://github.com/AmanUllahSujon-Developer/AmanUllahSujon-Developer/blob/main/youtube.png" />][facebook]
 [<img align="left" alt="Aman Ullah Sujon | YouTube" width="22px" src="https://github.com/AmanUllahSujon-Developer/AmanUllahSujon-Developer/blob/main/youtube.png" />][youtube]
 [<img align="left" alt="Aman Ullah Sujon | Twitter" width="22px" src="https://github.com/AmanUllahSujon-Developer/AmanUllahSujon-Developer/blob/main/twitter.png" />][twitter]
@@ -59,10 +59,10 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanUllahSujon-Developer&show_icons=true&locale=en" alt="Aman Ullah Sujon" /></p>
 
-[website]: https://TechHelpBD.com
+<!-- [website]: https://TechHelpBD.com -->
 [facebook]: https://facebook.com/MahbubDev
 [twitter]: https://twitter.com/AmanUllahSujon
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
+<!-- [youtube]: https://youtube.com/TechHelpBangladesh -->
+[instagram]: https://instagram.com/amanullahsujon/
 [linkedin]: https://www.linkedin.com/in/aman-ullah-sujon/
 [telegram]: https://t.me/AmanUllahSujon
