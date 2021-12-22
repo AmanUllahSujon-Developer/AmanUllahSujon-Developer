@@ -5,9 +5,9 @@ Programmer | Content Creator | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Java Web Development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** **Spring Boot**  **MicroService**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -15,7 +15,7 @@ Programmer | Content Creator | Learner
 
 - 📫 How to reach me **aman.jessore@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- ⚡ Fun fact **I can help you any java related code as much as i can 🍪😂**
 
 ### Connect with me:
 
@@ -61,8 +61,8 @@ Programmer | Content Creator | Learner
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
+[twitter]: https://twitter.com/AmanUllahSujon
 [youtube]: https://youtube.com/TechHelpBangladesh
 [instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[linkedin]: https://www.linkedin.com/in/aman-ullah-sujon/
+[telegram]: https://t.me/AmanUllahSujon
