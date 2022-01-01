@@ -7,7 +7,7 @@ Programmer | Traveler | Learner
 
 - 🔭 I’m currently working on **Java Web Development**
 
-- 🌱 I’m currently learning **Java** **Spring Boot**  **MicroService** ** Angular**
+- 🌱 I’m currently learning **Java** **Spring Boot**  **MicroService** **Angular**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
